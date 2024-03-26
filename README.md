@@ -4,7 +4,7 @@ A simple desktop posture reminder application built with Python's Tkinter librar
 
 ## Description
 
-Posture Pal helps you stay mindful of your posture throughout your workday.  It provides a visual countdown timer and customizable alert to encourage regular posture checks.
+Posture Checker helps you stay mindful of your posture throughout your workday.  It provides a visual countdown timer and customizable alert to encourage regular posture checks.
 
 ## Features
 
@@ -14,13 +14,13 @@ Posture Pal helps you stay mindful of your posture throughout your workday.  It 
 
 ## How to Use
 
-1. **Download:** Download the Python script (`posture_pal.py`) from this GitHub repository.
+1. **Download:** Download the Python script (`main.py`) from this GitHub repository.
 2. **Requirements:** Make sure you have Python 3 and Tkinter installed. (Most standard Python installations include Tkinter)
-3. **Run:** From your terminal, navigate to the directory where you saved the file and run `python posture_pal.py`.
+3. **Run:** From your terminal, navigate to the directory where you saved the file and run `python main.py`.
 
 ## Customization
 
-* Edit the `posture_pal.py` file to change:
+* Edit the `main.py` file to change:
     * The default timer duration 
     * The type of alert (sound or popup)
  
